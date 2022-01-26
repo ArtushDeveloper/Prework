@@ -18,7 +18,8 @@ The following calculation functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/EITpb44.gifv
+![](https://i.imgur.com/mo7NjD8.gif)
+
 
 ## Notes
 
